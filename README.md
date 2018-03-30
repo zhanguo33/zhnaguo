@@ -1,3 +1,3 @@
 # zhnaguo
 c/c++
-Hello evreyone, I am new here!
+Hello everyone, I am new here!
